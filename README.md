@@ -1,2 +1,2 @@
-To get started, read our wiki ...
-https://github.com/biscicol/biocode-fims/wiki/GettingStarted
+The wiki pages for the biocode-fims application now live under the Biocode, LLC organization at:
+https://github.com/biocodellc/biocode-fims/wiki/GettingStarted
